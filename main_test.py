@@ -27,6 +27,8 @@ def test_main_1():
     # assert main.main.rsum[0] == 65
     # assert main.main.rsum[1] == 115
     # assert main.main.rsum[2] == 165
-    assert main.rsum[0] == 65
-    assert main.rsum[1] == 115
-    assert main.rsum[2] == 165
+    assert main.csum[0] == 63
+    assert main.csum[1] == 66
+    assert main.csum[2] == 69
+    assert main.csum[3] == 72
+    assert main.csum[4] == 75
